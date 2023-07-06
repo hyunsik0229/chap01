@@ -2,19 +2,12 @@
 class Triangle {
 
 		public static void main(String[] args) {
-
-	System.out.println("     #"); 
-	
-
-
-	System.out.println("   ##"); 
-
-	System.out.println("  ###"); 
-
-	System.out.println(" ####"); 
-
-	System.out.println("#####"); 
-
+			//삼각형
+	System.out.println("@@@@@"); 	
+	System.out.println(" @@@@"); 
+	System.out.println("  @@@"); 
+	System.out.println("   @@"); 
+	System.out.println("    @"); 
 
 		}
 
