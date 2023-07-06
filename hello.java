@@ -1,10 +1,10 @@
 class HelloWord{
-		public static void main(String[] args{
-		System.println("Hello");	
-		System.println("Hello");	
-		System.println("Hello");	
-		System.println("Hello");	
-		System.println("Hello");	
+	public static void main(String[] args) {
+		System.out.println("Hello");	
+		System.out.println("Hello");	
+		System.out.println("Hello");	
+		System.out.println("Hello");	
+		System.out.println("Hello");	
 
 		}
 }
